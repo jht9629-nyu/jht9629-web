@@ -3103,7 +3103,7 @@
                   WDS_SOCKET_PATH: void 0,
                   WDS_SOCKET_PORT: void 0,
                   REACT_APP_C19_CONTACT: '',
-                  REACT_APP_C19_C_DATA: 'https://jht1493.net/COVID-19-Impact/Dashboard/a0',
+                  REACT_APP_C19_C_DATA: 'https://ep-visual-design.github.io/COVID-19-parsed-data',
                 }).REACT_APP_SC_ATTR ||
                   Object({
                     NODE_ENV: 'production',
@@ -3112,7 +3112,7 @@
                     WDS_SOCKET_PATH: void 0,
                     WDS_SOCKET_PORT: void 0,
                     REACT_APP_C19_CONTACT: '',
-                    REACT_APP_C19_C_DATA: 'https://jht1493.net/COVID-19-Impact/Dashboard/a0',
+                    REACT_APP_C19_C_DATA: 'https://ep-visual-design.github.io/COVID-19-parsed-data',
                   }).SC_ATTR)) ||
               'data-styled',
             T = 'undefined' !== typeof window && 'HTMLElement' in window,
@@ -3126,7 +3126,7 @@
                   WDS_SOCKET_PATH: void 0,
                   WDS_SOCKET_PORT: void 0,
                   REACT_APP_C19_CONTACT: '',
-                  REACT_APP_C19_C_DATA: 'https://jht1493.net/COVID-19-Impact/Dashboard/a0',
+                  REACT_APP_C19_C_DATA: 'https://ep-visual-design.github.io/COVID-19-parsed-data',
                 }).REACT_APP_SC_DISABLE_SPEEDY ||
                   Object({
                     NODE_ENV: 'production',
@@ -3135,7 +3135,7 @@
                     WDS_SOCKET_PATH: void 0,
                     WDS_SOCKET_PORT: void 0,
                     REACT_APP_C19_CONTACT: '',
-                    REACT_APP_C19_C_DATA: 'https://jht1493.net/COVID-19-Impact/Dashboard/a0',
+                    REACT_APP_C19_C_DATA: 'https://ep-visual-design.github.io/COVID-19-parsed-data',
                   }).SC_DISABLE_SPEEDY)) ||
               !1,
             P = {};
